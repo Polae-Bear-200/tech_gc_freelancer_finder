@@ -1,0 +1,6 @@
+backend/.env
+backend/gigs.db
+backend/chroma_store/
+backend/__pycache__/
+frontend/.next/
+frontend/node_modules/
