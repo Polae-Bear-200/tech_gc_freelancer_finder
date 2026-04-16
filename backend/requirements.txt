@@ -1,0 +1,9 @@
+# Dependencies
+fastapi
+uvicorn
+httpx
+chromadb
+sentence-transformers
+groq
+python-dotenv
+apscheduler
